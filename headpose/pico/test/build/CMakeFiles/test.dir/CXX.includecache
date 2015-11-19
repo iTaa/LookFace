@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../../includes/pico.h
+../../../general_def.h
+general_def.h
+
+/home/jxgu/github/NTU-project-lamp/system/lib/tk1/headpose/pico/test/sample.cpp
+pico.h
+/home/jxgu/github/NTU-project-lamp/system/lib/tk1/headpose/pico/test/pico.h
+

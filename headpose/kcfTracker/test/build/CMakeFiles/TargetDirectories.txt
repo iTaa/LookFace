@@ -1,0 +1,2 @@
+/home/jxgu/github/NTU-project-lamp/system/lib/tk1/headpose/kcfTracker/test/build/CMakeFiles/DSSTcpp.dir
+/home/jxgu/github/NTU-project-lamp/system/lib/tk1/headpose/kcfTracker/test/build/CMakeFiles/KCFcpp.dir
