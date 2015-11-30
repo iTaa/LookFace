@@ -7,9 +7,7 @@
   The look on her face told me I'd hurt her!
 </p>
 <p align="center">
-  <a href="https://github.com/gujiuxiang/LookFace">
-    <img alt="Awesome" src="http://gujiuxiang.github.io/2015/10/20/CV-face-detection/">
-  </a>
+  <a href="https://github.com/gujiuxiang/LookFace"></a>
 </p>
 
 ## Details
