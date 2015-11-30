@@ -4,7 +4,7 @@
 
 <h3 align="center">LookFace: An Open Source Face Detection, Landmark Alignment, and Verification Software</h3>
 <p align="center">
-  Path to a free self-taught education in Computer Science!
+  The look on her face told me I'd hurt her!
 </p>
 <p align="center">
   <a href="https://github.com/gujiuxiang/LookFace">
