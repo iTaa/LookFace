@@ -1,8 +1,16 @@
-# face-detection
-
-## Video Demo
+# LookFace
 
 [![](https://github.com/gujiuxiang/gujiuxiang.github.io/blob/master/img/2015-10-20/youku_face_det_align_001.png?raw=true)](http://v.youku.com/v_show/id_XMTM5OTg3MDYwNA==.html?from=y1.7-1.2)
+
+<h3 align="center">LookFace: An Open Source Face Detection, Landmark Alignment, and Verification Software</h3>
+<p align="center">
+  Path to a free self-taught education in Computer Science!
+</p>
+<p align="center">
+  <a href="https://github.com/gujiuxiang/LookFace">
+    <img alt="Awesome" src="http://gujiuxiang.github.io/2015/10/20/CV-face-detection/">
+  </a>
+</p>
 
 ## Details
 
