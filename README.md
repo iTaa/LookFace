@@ -1,6 +1,6 @@
 # LookFace
 
-<h3 align="center">LookFace: An Open Source Face Detection, Landmark Alignment, and Verification Software</h3>
+<h3 align="center">Face Detection, Landmark Alignment, and Verification</h3>
 
 ## Reference
 
