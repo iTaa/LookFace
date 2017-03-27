@@ -2,6 +2,8 @@
 
 <h3 align="center">Face Detection, Landmark Alignment, and Verification</h3>
 
+![](demo_lookface.gif)
+
 ## Reference
 
 - [Cambridge face tracker CLM-framework](https://github.com/TadasBaltrusaitis/CLM-framework)
